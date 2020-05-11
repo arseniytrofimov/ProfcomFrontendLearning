@@ -1,0 +1,16 @@
+a[href="https://google.com"]{
+	font-size: 40px;
+}
+a[href="https://mynoise.net"]{
+	font-style: oblique;
+	color: red;
+}
+img[title="Картинка1"]{
+	width: 200px;
+}
+img[title="Картинка2"]{
+	width: 300px;
+}
+img[title="Картинка3"]{
+	width: 400px;
+}
