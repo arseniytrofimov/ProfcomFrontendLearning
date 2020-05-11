@@ -1,0 +1,12 @@
+p{
+	background-color: yellow;
+}
+#id1{
+	background: red;
+}
+.one{
+	font-style: oblique;
+}
+p.one{
+	font-weight: bold;
+}

@@ -1,0 +1,43 @@
+a:hover{
+	color:red;
+	background:blue; 
+}
+a:link{
+	color:white; 
+	background-color:black;
+}
+a:visited{
+	color:grey;
+	background: yellow;
+}
+a:active{
+	color:orange;
+	background-color: pink;
+}
+h1:first-letter{
+	color:red;
+	font-size: 24px;
+}
+h2:first-letter{
+	color:red;
+	font-size: 24px;
+}
+h3:first-letter{
+	color:red;
+	font-size: 24px;
+}
+.kur:first-line{
+	font-style: oblique;
+}
+.cont:before{
+	content: "{";
+	font-size: 45px;
+}
+.cont:after{
+	content: "}";
+	font-size: 45px;
+}
+p::selection{
+	color:grey;
+	background:black;
+}
