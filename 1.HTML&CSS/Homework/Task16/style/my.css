@@ -1,0 +1,27 @@
+div{
+	border: 1px solid orange;
+	margin: 3px 0px;
+	padding: 5px 10px;
+	box-sizing: border-box;
+}
+.aa{
+	width: 100%;
+	min-height: 125px;
+	float: left;
+}
+.ab{
+	width: 50%;
+	float: left;
+	min-height: 400px;
+}
+.bb{
+	width: 33.3%;
+	float: left;
+	min-height: 260px;
+}
+#a1{
+	border-radius: 0px 15px 15px 0px;
+}
+#a2{
+	border-radius: 15px 0px 0px 15px;
+}
